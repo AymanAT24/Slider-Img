@@ -1,2 +1,1 @@
-"# Prayer-Tiems" 
 "# Slider-Img" 
